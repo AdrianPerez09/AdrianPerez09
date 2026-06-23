@@ -114,7 +114,7 @@ My profile combines software engineering, enterprise systems and technical versa
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   
-  <a href="www.linkedin.com/in/adrián-pérez-faraldo-3a2121289">
+  <a href="https://www.linkedin.com/in/adrian-perez-faraldo-3a2121289/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
