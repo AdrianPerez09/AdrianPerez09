@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Adrián%20Pérez&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20|%20Frontend%20|%20ERP%20|%20Unity&descAlignY=60" />
 </p>
-
-<h1 align="center">Hi 👋, I'm Adrián Pérez</h1>
 <h3 align="center">Software Engineer specialized in Backend, ERP and Interactive Development</h3>
 
 <p align="center">
@@ -39,67 +37,9 @@
 
 ---
 
-# 🛠 Core Technologies
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### Backend
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-REST APIs  
-JPA  
-JDBC  
-Hibernate  
-SQL  
-
-</td>
-<td align="center" width="25%">
-
-### Frontend
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-HTML  
-CSS  
-Angular  
-TypeScript  
-XML  
-JSON  
-
-</td>
-<td align="center" width="25%">
-
-### ERP
-
-![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
-
-Dynamics AX  
-Dynamics 365  
-X++  
-Power Platform  
-
-</td>
-<td align="center" width="25%">
-
-### Unity
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
-Unity  
-C#  
-Game Logic  
-UI Systems  
-
-</td>
-</tr>
-</table>
-
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,python,cs,git,azure" />
+</p>
 
 # ☁️ Cloud & Infrastructure
 
