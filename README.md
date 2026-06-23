@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Adrián%20Pérez&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=18" />
 </p>
 
-<h1 align="center">Adrián Pérez</h1>
-
 <h3 align="center">
 Software Engineer • Backend • Frontend • ERP • Unity
 </h3>
