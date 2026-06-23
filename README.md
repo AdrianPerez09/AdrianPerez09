@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Adrián%20Pérez&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20|%20Frontend%20|%20ERP%20|%20Unity&descAlignY=60" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Adrián Pérez</h1>
-<h3 align="center">Full Stack Developer | ERP Specialist | Unity Developer</h3>
+<h3 align="center">Software Engineer specialized in Backend, ERP and Interactive Development</h3>
 
 <p align="center">
   Building scalable software, enterprise solutions and interactive experiences.
@@ -11,31 +15,27 @@
 
 ---
 
-# 💫 What Makes Me Different
+# 💫 Core Expertise
 
-I am not just a developer.
-
-I build complete solutions across multiple layers of technology:
-
-✅ Backend Systems  
-✅ Frontend Applications  
-✅ ERP Business Solutions  
-✅ Cloud Automation  
-✅ Interactive Unity Applications  
-
-My strength is connecting business needs with scalable technical solutions.
+<p align="center">
+  ✅ Backend Development &nbsp;&nbsp;
+  ✅ Frontend Applications &nbsp;&nbsp;
+  ✅ ERP Solutions &nbsp;&nbsp;
+  ✅ Cloud Automation &nbsp;&nbsp;
+  ✅ Unity Development
+</p>
 
 ---
 
 # 🚀 About Me
 
-💻 Software developer focused on building scalable and maintainable systems.
+💻 Software Engineer passionate about building scalable and maintainable systems.
 
 🏢 Experience in enterprise environments including **PwC** and projects in the **Iberdrola ecosystem**.
 
 ⚡ Specialized in **Power Platform**, **Azure**, and enterprise automation.
 
-🧠 Strong adaptability and fast learning mindset.
+🧠 Strong adaptability, problem-solving mindset and fast learning capability.
 
 ---
 
@@ -46,11 +46,13 @@ My strength is connecting business needs with scalable technical solutions.
 <td align="center" width="25%">
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
-![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 REST APIs  
 JPA  
+JDBC  
 Hibernate  
 SQL  
 
@@ -58,19 +60,23 @@ SQL
 <td align="center" width="25%">
 
 ### Frontend
-![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular)
-![TS](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 HTML  
 CSS  
 Angular  
 TypeScript  
+XML  
+JSON  
 
 </td>
 <td align="center" width="25%">
 
 ### ERP
-![Microsoft](https://img.shields.io/badge/Microsoft-black?style=for-the-badge&logo=microsoft)
+
+![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
 
 Dynamics AX  
 Dynamics 365  
@@ -81,7 +87,8 @@ Power Platform
 <td align="center" width="25%">
 
 ### Unity
-![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 Unity  
 C#  
@@ -108,23 +115,21 @@ UI Systems
 
 ---
 
-# 📌 Current Focus
+# 🚀 Featured Projects
 
-```text
-→ Building scalable backend services
-→ Creating modern frontend applications
-→ ERP development and automation
-→ Expanding Unity projects
-```
+🔹 ERP Business Solutions with Dynamics AX / 365  
+🔹 REST APIs with Spring Boot  
+🔹 Angular Frontend Applications  
+🔹 Unity Interactive Projects  
 
 ---
 
-# 📈 GitHub Analytics
+# 📌 Current Focus
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdrianPerez09&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianPerez09&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+- Building scalable backend services  
+- Creating modern frontend applications  
+- ERP development and automation  
+- Expanding Unity projects  
 
 ---
 
@@ -137,5 +142,9 @@ UI Systems
 
 # 📫 Contact Me
 
-📍 Bilbao / Remote  
-📧 **adriliko28@gmail.com**
+<p align="center">
+  📍 Bilbao / Remote <br><br>
+  <a href="mailto:adriliko28@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
