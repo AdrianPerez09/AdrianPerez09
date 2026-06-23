@@ -1,99 +1,141 @@
 <h1 align="center">Hi 👋, I'm Adrián Pérez</h1>
-<h3 align="center">Backend Developer | Frontend Developer | ERP Developer | Unity Developer</h3>
+<h3 align="center">Full Stack Developer | ERP Specialist | Unity Developer</h3>
+
+<p align="center">
+  Building scalable software, enterprise solutions and interactive experiences.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3BA3FF&center=true&vCenter=true&width=900&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Frontend+Developer+%7C+Angular+%26+TypeScript;ERP+Developer+%7C+Dynamics+AX+%2F+365;Unity+Developer+%7C+C%23" />
+</p>
 
 ---
 
-## 🚀 About Me
+# 💫 What Makes Me Different
 
-I'm a software developer passionate about building scalable applications, business solutions, and interactive experiences.
+I am not just a developer.
 
-My main focus is on **backend development**, **frontend development**, **ERP systems**, and **Unity development**.
+I build complete solutions across multiple layers of technology:
 
-I enjoy working across different technologies and adapting quickly to new tools, frameworks, and methodologies.
+✅ Backend Systems  
+✅ Frontend Applications  
+✅ ERP Business Solutions  
+✅ Cloud Automation  
+✅ Interactive Unity Applications  
 
-I have experience in demanding enterprise environments, including projects within the **Iberdrola ecosystem through PwC**, working on automation and architecture with **Microsoft Power Platform** and **Azure**.
-
-My technical background allows me to work across multiple areas: from enterprise software and web applications to ERP customization and game development.
-
----
-
-## 🌱 Currently Working With
-
-- Backend Development with Java & Spring Boot  
-- Frontend Development with Angular & TypeScript  
-- ERP Solutions with Dynamics AX / 365  
-- Unity Development  
-- Cloud & Automation with Azure  
+My strength is connecting business needs with scalable technical solutions.
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 About Me
+
+💻 Software developer focused on building scalable and maintainable systems.
+
+🏢 Experience in enterprise environments including **PwC** and projects in the **Iberdrola ecosystem**.
+
+⚡ Specialized in **Power Platform**, **Azure**, and enterprise automation.
+
+🧠 Strong adaptability and fast learning mindset.
+
+---
+
+# 🛠 Core Technologies
+
+<table>
+<tr>
+<td align="center" width="25%">
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
+![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring)
 
-**REST APIs • JPA • JDBC • Hibernate**
+REST APIs  
+JPA  
+Hibernate  
+SQL  
 
----
+</td>
+<td align="center" width="25%">
 
 ### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular)
+![TS](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
 
-**HTML • CSS • TypeScript • Angular • XML • JSON**
+HTML  
+CSS  
+Angular  
+TypeScript  
+
+</td>
+<td align="center" width="25%">
+
+### ERP
+![Microsoft](https://img.shields.io/badge/Microsoft-black?style=for-the-badge&logo=microsoft)
+
+Dynamics AX  
+Dynamics 365  
+X++  
+Power Platform  
+
+</td>
+<td align="center" width="25%">
+
+### Unity
+![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
+
+Unity  
+C#  
+Game Logic  
+UI Systems  
+
+</td>
+</tr>
+</table>
 
 ---
 
-### ERP Development
-![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
-
-**Dynamics AX 2012 / 365 • X++ • Power Platform**
-
----
-
-### Game Development
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
-**Unity • C#**
-
----
-
-### Cloud
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-**Azure • Power Apps • Power Automate**
-
----
-
-### Other Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Python • C++ (Basic)**
-
----
-
-## 📈 GitHub Stats
+# ☁️ Cloud & Infrastructure
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdrianPerez09&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://skillicons.dev/icons?i=azure,git,python,cs,cpp" />
 </p>
+
+- Azure Cloud  
+- Power Apps  
+- Power Automate  
+- Technical Support  
+- Hardware & Networking  
+
+---
+
+# 📌 Current Focus
+
+```text
+→ Building scalable backend services
+→ Creating modern frontend applications
+→ ERP development and automation
+→ Expanding Unity projects
+```
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianPerez09&layout=compact&theme=tokyonight" alt="langs" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdrianPerez09&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianPerez09&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🌍 Languages
+# 🌍 Languages
 
-- 🇪🇸 Spanish — Native  
-- 🇬🇧 English — B2  
+🇪🇸 Spanish — Native  
+🇬🇧 English — B2  
 
 ---
 
-## 📫 Contact
+# 📫 Contact Me
 
 📍 Bilbao / Remote  
 📧 **adriliko28@gmail.com**
