@@ -1,41 +1,40 @@
-<h1 align="center">Hi 👋, I'm Adrián</h1>
-<h3 align="center">Backend Developer | Cloud & Power Platform Specialist | Hybrid Tech Profile</h3>
+<h1 align="center">Hi 👋, I'm Adrián Pérez</h1>
+<h3 align="center">Backend Developer | Frontend Developer | ERP Developer | Unity Developer</h3>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **25-year-old hybrid tech professional** with experience in both **software development** and **IT infrastructure**.
+I'm a software developer passionate about building scalable applications, business solutions, and interactive experiences.
 
-My biggest strengths are **adaptability**, **fast learning**, and the ability to quickly integrate into new technologies, frameworks, and methodologies.
+My main focus is on **backend development**, **frontend development**, **ERP systems**, and **Unity development**.
 
-I’ve worked in demanding consulting environments, including projects within the **Iberdrola ecosystem through PwC**, specializing in **architecture and automation with Microsoft Power Platform and Azure**.
+I enjoy working across different technologies and adapting quickly to new tools, frameworks, and methodologies.
 
-I also have strong experience in backend development using **Spring Boot (Java)** and enterprise solution customization with **Microsoft Dynamics AX 2012 / 365 (X++)**.
+I have experience in demanding enterprise environments, including projects within the **Iberdrola ecosystem through PwC**, working on automation and architecture with **Microsoft Power Platform** and **Azure**.
 
-Thanks to my background in **SMR (Microcomputer Systems & Networks)** and **DAM (Multiplatform Application Development)**, I understand technology end-to-end: from software architecture and code to the infrastructure and networks where it runs.
+My technical background allows me to work across multiple areas: from enterprise software and web applications to ERP customization and game development.
 
 ---
 
-## 🌱 Currently Focused On
+## 🌱 Currently Working With
 
 - Backend Development with Java & Spring Boot  
-- Cloud Solutions with Azure  
-- Enterprise Automation with Power Platform  
-- ERP Development (Dynamics AX / 365)  
-- Frontend with Angular & TypeScript  
+- Frontend Development with Angular & TypeScript  
+- ERP Solutions with Dynamics AX / 365  
+- Unity Development  
+- Cloud & Automation with Azure  
 
 ---
 
 ## 🛠 Tech Stack
 
-### Backend & ERP
+### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**REST APIs • JPA • JDBC • Hibernate • SQL • X++ • Dynamics AX 2012 / 365**
+**REST APIs • JPA • JDBC • Hibernate**
 
 ---
 
@@ -43,40 +42,46 @@ Thanks to my background in **SMR (Microcomputer Systems & Networks)** and **DAM 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**HTML • CSS • Angular 20+ • XML • JSON • XSD • XPath**
+**HTML • CSS • TypeScript • Angular • XML • JSON**
 
 ---
 
-### Cloud & Automation
+### ERP Development
+![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+
+**Dynamics AX 2012 / 365 • X++ • Power Platform**
+
+---
+
+### Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+**Unity • C#**
+
+---
+
+### Cloud
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-**Power Apps • Power Automate • Azure (DEV / PRE / PRO environments)**
+**Azure • Power Apps • Power Automate**
 
 ---
 
-### Other Programming Languages
+### Other Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Python • C# • C++ (Basic)**
-
----
-
-### Infrastructure
-🖥 Technical Support  
-🔧 Hardware Assembly & Repair  
-🌐 Network Configuration  
-⚙️ Systems Administration  
+**Python • C++ (Basic)**
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdrianPerez09&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianPerez09&layout=compact&theme=tokyonight" alt="langs" />
 </p>
 
 ---
@@ -92,9 +97,3 @@ Thanks to my background in **SMR (Microcomputer Systems & Networks)** and **DAM 
 
 📍 Bilbao / Remote  
 📧 **adriliko28@gmail.com**
-
----
-
-## ⚡ Fun Fact
-
-I understand technology from end to end — from code and architecture to hardware and networks.
