@@ -1,90 +1,117 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Adrián%20Pérez&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20|%20Frontend%20|%20ERP%20|%20Unity&descAlignY=60" />
-</p>
-<h3 align="center">Software Engineer specialized in Backend, ERP and Interactive Development</h3>
-
-<p align="center">
-  Building scalable software, enterprise solutions and interactive experiences.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Adrián%20Pérez&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=18" />
 </p>
 
+<h1 align="center">Adrián Pérez</h1>
+
+<h3 align="center">
+Software Engineer • Backend • Frontend • ERP • Unity
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3BA3FF&center=true&vCenter=true&width=900&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Frontend+Developer+%7C+Angular+%26+TypeScript;ERP+Developer+%7C+Dynamics+AX+%2F+365;Unity+Developer+%7C+C%23" />
+Building scalable software, enterprise solutions and interactive experiences.
+</p>
+
+<p align="center">
+  <a href="mailto:adriliko28@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=3BA3FF&center=true&vCenter=true&width=1000&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Frontend+Developer+%7C+Angular+%26+TypeScript;ERP+Developer+%7C+Dynamics+AX+%2F+365;Unity+Developer+%7C+C%23" />
 </p>
 
 ---
 
-# 💫 Core Expertise
+## 💫 Core Expertise
 
 <p align="center">
-  ✅ Backend Development &nbsp;&nbsp;
-  ✅ Frontend Applications &nbsp;&nbsp;
-  ✅ ERP Solutions &nbsp;&nbsp;
-  ✅ Cloud Automation &nbsp;&nbsp;
-  ✅ Unity Development
+Backend Development • Frontend Applications • ERP Solutions • Cloud Automation • Unity Development
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-💻 Software Engineer passionate about building scalable and maintainable systems.
+Software Engineer focused on designing and building scalable, maintainable and business-driven solutions.
 
-🏢 Experience in enterprise environments including **PwC** and projects in the **Iberdrola ecosystem**.
+I have experience working in enterprise environments including **PwC** and projects inside the **Iberdrola ecosystem**, delivering automation and business solutions using **Azure** and **Microsoft Power Platform**.
 
-⚡ Specialized in **Power Platform**, **Azure**, and enterprise automation.
-
-🧠 Strong adaptability, problem-solving mindset and fast learning capability.
+My profile combines software engineering, enterprise systems and technical versatility across multiple domains.
 
 ---
+
+## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,python,cs,git,azure" />
 </p>
 
-# ☁️ Cloud & Infrastructure
+### Backend
+- Java  
+- Spring Boot  
+- REST APIs  
+- JPA / JDBC / Hibernate  
+- SQL  
+
+### Frontend
+- Angular  
+- TypeScript  
+- HTML  
+- CSS  
+- XML / JSON  
+
+### ERP & Enterprise
+- Dynamics AX 2012 / 365  
+- X++  
+- Microsoft Power Platform  
+- Business Process Automation  
+
+### Unity Development
+- Unity  
+- C#  
+- Game Logic  
+- UI Systems  
+
+---
+
+## 💼 Experience
+
+### PwC
+- Enterprise automation  
+- Power Platform solutions  
+- Cloud environments in Azure  
+
+### Iberdrola Ecosystem
+- Business process automation  
+- Enterprise architecture  
+- Digital solutions  
+
+---
+
+## 📌 Current Focus
+
+- Scalable backend services with Java & Spring Boot  
+- Modern frontend applications with Angular  
+- ERP automation and business solutions  
+- Unity development projects  
+
+---
+
+## 🌍 Languages
+
+- 🇪🇸 Spanish — Native  
+- 🇬🇧 English — B2  
+
+---
+
+## 📫 Contact
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,git,python,cs,cpp" />
-</p>
-
-- Azure Cloud  
-- Power Apps  
-- Power Automate  
-- Technical Support  
-- Hardware & Networking  
-
----
-
-# 🚀 Featured Projects
-
-🔹 ERP Business Solutions with Dynamics AX / 365  
-🔹 REST APIs with Spring Boot  
-🔹 Angular Frontend Applications  
-🔹 Unity Interactive Projects  
-
----
-
-# 📌 Current Focus
-
-- Building scalable backend services  
-- Creating modern frontend applications  
-- ERP development and automation  
-- Expanding Unity projects  
-
----
-
-# 🌍 Languages
-
-🇪🇸 Spanish — Native  
-🇬🇧 English — B2  
-
----
-
-# 📫 Contact Me
-
-<p align="center">
-  📍 Bilbao / Remote <br><br>
-  <a href="mailto:adriliko28@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+📍 Bilbao / Remote
+<br><br>
+<a href="mailto:adriliko28@gmail.com">
+<img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
